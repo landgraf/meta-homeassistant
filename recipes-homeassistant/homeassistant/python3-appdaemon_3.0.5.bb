@@ -16,7 +16,6 @@ RDEPENDS:${PN} = "\
     ${PYTHON_PN}-async \
     ${PYTHON_PN}-astral \
     ${PYTHON_PN}-bcrypt \
-    ${PYTHON_PN}-configparser \
     ${PYTHON_PN}-daemonize \
     ${PYTHON_PN}-feedparser \
     ${PYTHON_PN}-iso8601 \
